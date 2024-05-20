@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+oldh5/
 eggs/
 .eggs/
 lib/
